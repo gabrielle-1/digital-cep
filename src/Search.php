@@ -13,6 +13,6 @@
 			return (array) json_decode($get);
 		
 		}
-	}
+	} 
 	
 	
